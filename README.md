@@ -19,7 +19,7 @@ This project analyzes employee attrition using Power BI. It helps identify key f
 - employee attrition dashboard.pbix
 
 ## 🔗 Project Link
-(# Employee Attrition Dashboard
+https://github.com/lavatedipali05-arch/Employee-Attrition-Dashboard
 
 ## 📊 Project Overview
 This project analyzes employee attrition using Power BI. It helps identify key factors that influence employee turnover.
