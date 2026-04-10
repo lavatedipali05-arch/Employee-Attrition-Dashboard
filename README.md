@@ -1,4 +1,4 @@
-# Employee-Attrition-Dashboard
+# Employee-Attrition- SAtisfaction Analysis Dashboard
 power BI dashboard analyzing employee attrition 
 ## 📊 Project Overview
 This project analyzes employee attrition using Power BI. It helps identify key factors that influence employee turnover.
